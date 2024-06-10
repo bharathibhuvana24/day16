@@ -13,7 +13,7 @@ displayNumber(10, function() {
                             displayNumber(3, function() {
                                 displayNumber(2, function() {
                                     displayNumber(1, function() {
-                                        document.getElementById('countdown').innerText = "Happy Indepedence Day";
+                                        document.getElementById('countdown').innerText = "Happy Independence Day";
                                     });
                                 });
                             });
